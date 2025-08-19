@@ -1,11 +1,11 @@
 # 🎮 Tic Tac Toe
 
 ## 🚀 Fitur
-- ✅ Player vs Player (offline duel)
-- ✅ Player vs AI (Easy / Normal / Hard)
-- ✅ Skor otomatis & tersimpan di `localStorage`
-- ✅ Restart game & reset skor
-- ✅ Desain dark mode, responsive
+- Player vs Player (offline duel)
+- Player vs AI (Easy / Normal / Hard)
+- Skor otomatis & tersimpan di `localStorage`
+- Restart game & reset skor
+- Desain dark mode, responsive
 
 
 ## 🕹️ Cara Main
