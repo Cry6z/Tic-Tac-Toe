@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #38bdf8;
+}
+
+.scoreboard p {
+  margin: 5px 0;
+}
+
+.mode-select {
+  margin: 15px 0;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: repeat(3, 100px);
+  gap: 5px;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.cell {
+  width: 100px;
+  height: 100px;
+  font-size: 36px;
+  background: #1e293b;
+  color: #f8fafc;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background 0.3s;
+}
+
+.cell:hover {
+  background: #334155;
+}
+
+.status {
+  margin: 15px 0;
+  font-size: 18px;
+}
+
+.controls button,
+.mode-select button,
+.mode-select select {
+  background: #38bdf8;
+  border: none;
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 6px;
+  cursor: pointer;
+  color: #0f172a;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.controls button:hover,
+.mode-select button:hover,
+.mode-select select:hover {
+  background: #0ea5e9;
+}
