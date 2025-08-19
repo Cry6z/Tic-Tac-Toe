@@ -1,12 +1,4 @@
 # 🎮 Tic Tac Toe
-[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-Tic Tac Toe adalah projek gabut saya. 
-Bisa dimainkan Player VS Player dan Player VS AI 
-dan bisa di ganti kesulitannya
-
----
 
 ## 🚀 Fitur
 - ✅ Player vs Player (offline duel)
@@ -20,12 +12,11 @@ dan bisa di ganti kesulitannya
 1. Clone repo ini atau download zip.
    ```bash
    git clone https://github.com/<username>/tic-tac-toe.git
-Buka file index.html di browser.
-
-Pilih mode PVP atau AI.
-
-Mainkan hingga ada pemenang atau seri.
-
-Skor akan tercatat otomatis.
+2. Buka file index.html di browser.
+3. Pilih mode PVP atau AI.
+4. Mainkan hingga ada pemenang atau seri.
+5. Skor akan tercatat otomatis.
 
 Project ini dibuat karena gabut.
+<img width="1016" height="930" alt="tic" src="https://github.com/user-attachments/assets/7b020cb4-1c9f-4426-bd2d-8a64b0ebd79c" />
+
