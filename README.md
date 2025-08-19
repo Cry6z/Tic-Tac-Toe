@@ -1,5 +1,7 @@
 # 🎮 Tic Tac Toe
-
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 Tic Tac Toe adalah projek gabut saya. 
 Bisa dimainkan Player VS Player dan Player VS AI 
 dan bisa di ganti kesulitannya
@@ -13,21 +15,6 @@ dan bisa di ganti kesulitannya
 - ✅ Restart game & reset skor
 - ✅ Desain dark mode, responsive
 
----
-
-## 📂 Struktur Folder
-/tic-tac-toe/
-├─ index.html # Halaman utama
-├─ css/
-│ └─ style.css # Style tampilan
-└─ js/
-└─ script.js # Logic game
-
-yaml
-Salin
-Edit
-
----
 
 ## 🕹️ Cara Main
 1. Clone repo ini atau download zip.
