@@ -8,6 +8,9 @@ body {
   align-items: center;
   height: 100vh;
 }
+  body, html {
+            font-family: 'Quicksand', sans-serif;
+        }
 
 .container {
   text-align: center;
