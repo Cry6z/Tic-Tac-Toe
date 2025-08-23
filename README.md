@@ -1,6 +1,6 @@
 ## 🎮 Tic Tac Toe
 Tic Tac Toe berbasis HTML, CSS, dan JS
----
+
 ## ✨ Fitur
 
 Player vs Player
