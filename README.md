@@ -8,7 +8,7 @@ Player vs Player
 Player vs AI (Easy / Normal / Hard)
 
 Skor otomatis & bisa di-reset
----
+
 ##  🕹️ Cara Main
 
 Download / clone repo.
